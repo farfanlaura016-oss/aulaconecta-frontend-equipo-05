@@ -26,4 +26,6 @@ Secuencias de trabajo:
 5. Revisar: Otro integrante analiza los cambios y propone mejoras RIESGO QUE EVITA: deja pasar errores de estructura, ortografia o calidad
 6. Corregir observaciones: Se realizan las modificaciones solicitadas durante la revision RIESGO QUE EVITA: fusionar cambios con problemas detectados
 7. Fusionar: Despues de la aprobacion los cambios pasan a la rama principal RIESGO QUE EVITA: integrar trabajos sin revision previa
-   
+
+3 COMMITS
+Docs: 
