@@ -12,7 +12,9 @@ Crear un repositorio organizado que permita desarrollar el fron-end de AulaConec
 -Pagina de contacto.
 4.EQUIPO
 integrantes:
--Adrian Sneider Lara Campos, 
--Laura Sofya Farfan Muñoz
--Thomas Leyton Giraldo
--Julian Espitia Pinzon
+-Adrian Sneider Lara Campos, AdrianLara08, Responsable del repositorio 
+-Laura Sofya Farfan Muñoz, farfanlaura016-oss, Reponsable de la rama
+-Thomas Leyton Giraldo, Cyber-TL, Revisor
+-Julian Espitia Pinzon, espitiadevi-blip, auditor
+5. RUTA TECNOLOGICA
+-d,padádad
